@@ -5,7 +5,7 @@ import re
 import unicodedata
 
 # Set this to a multiple of 10 to avoid duplicates, not that they should cause any issues.
-up_to = 30  # Enter the Top X Users to Block
+up_to = 100  # Enter the Top X Users to Block
 karma_type = 1  # Leave as 0 to block top Link Karma, 1 for Total Karma, 2 for Comment Karma
 
 # Go to https://www.reddit.com/prefs/apps/, Scroll to bottom and select 'create another app...'
